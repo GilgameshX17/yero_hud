@@ -126,15 +126,15 @@ div.separator { display: block; clear: both; width: 100%; }
 .info.vehicle #speedometer #vehicle-status-right { position: absolute; bottom: 0; right: 0; }
 .info.vehicle #speedometer #vehicle-status-right ul li { float: left; }
 
-.info.vehicle #speedometer li#seatbelt span { background: linear-gradient(180deg, #ff0000 0%, #aa0000 100%); }
-.info.vehicle #speedometer li#seatbelt.on span { background: linear-gradient(180deg, #18b70b 0%, #128c08 100%); }
+.info.vehicle #speedometer li#seatbelt span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
+.info.vehicle #speedometer li#seatbelt.on span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
 
-.info.vehicle #speedometer li#fuel span { background: linear-gradient(180deg, #ff8000 0%, #cd6700 100%); }
+.info.vehicle #speedometer li#fuel span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
 
 .info.vehicle #speedometer li#lights.normal span,
-.info.vehicle #speedometer li#lights.high span { background: linear-gradient(180deg, #00c3ff 0%, #008fbb 100%); }
+.info.vehicle #speedometer li#lights.high span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
 
-.info.vehicle #speedometer li#signals.dying span { background: linear-gradient(180deg, #18b70b 0%, #128c08 100%); animation: trew-status-blink 750ms infinite; }
+.info.vehicle #speedometer li#signals.dying span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); animation: trew-status-blink 750ms infinite; }
 
 
 
