@@ -6,3 +6,6 @@ If you have any problem with it, you can contact me via discord: Y Ξ R O#7949
 <br>
 
 <img src="https://i.imgur.com/NUdUcKz.png">
+<br>
+
+<img src="https://i.imgur.com/CLAH3Ev.png">
