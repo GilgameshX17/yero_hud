@@ -126,7 +126,7 @@ div.separator { display: block; clear: both; width: 100%; }
 .info.vehicle #speedometer #vehicle-status-right { position: absolute; bottom: 0; right: 0; }
 .info.vehicle #speedometer #vehicle-status-right ul li { float: left; }
 
-.info.vehicle #speedometer li#seatbelt span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
+.info.vehicle #speedometer li#seatbelt span { background: linear-gradient(180deg, #000000 0%, #000000 100%); }
 .info.vehicle #speedometer li#seatbelt.on span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
 
 .info.vehicle #speedometer li#fuel span { background: linear-gradient(180deg, #531363 0%, #aa0000 100%); }
