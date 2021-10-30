@@ -2,31 +2,13 @@ Config = {}
 
 Config.Locale = 'es'
 
-Config.serverLogo = 'https://i.imgur.com/uIa91o9.png'
+Config.serverLogo = 'https://i.imgur.com/zxC3OuH.png'
 
 Config.font = {
 	name 	= 'Montserrat',
 	url 	= 'https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900&display=swap'
 }
 
-Config.date = {
-	format	 	= 'default',
-	AmPm		= false
-}
-
-Config.voice = {
-
-	levels = {
-		default = 5.0,
-		shout = 12.0,
-		whisper = 1.0,
-		current = 0
-	},
-	
-	keys = {
-		distance 	= '~',
-	}
-}
 
 
 Config.vehicle = {
@@ -48,13 +30,9 @@ Config.ui = {
 	showJob		 		= true,
 
 	showWalletMoney 	= true,
-	showBankMoney 		= true,
+	showBankMoney 		= false,
 	showBlackMoney 		= true,
 	showSocietyMoney	= true,
-
-	showDate 			= false,
-	showLocation 		= false,
-	showVoice	 		= false,
 
 	showHealth			= true,
 	showArmor	 		= true,
@@ -64,5 +42,4 @@ Config.ui = {
 
 	showMinimap			= false,
 
-	showWeapons			= false,	
 }
