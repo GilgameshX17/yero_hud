@@ -2,7 +2,7 @@
 Welcome to my HUD!
 It is a redesign of the popular "trew_hud_ui".
 <br>
-If you have any problem with it, you can contact me via discord: Y Ξ R O#7949
+If you have any problem with it, you can contact me via discord: Y Ξ R O#0001
 <br>
 
 <img src="https://i.imgur.com/NUdUcKz.png">
